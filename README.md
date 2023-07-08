@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4bhw0uted2r2dj63?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-display-of-products)
+## [Проект](https://vmoiseev.github.io/ra-display-of-products/)
+
 Расположение товаров
 ===
 
