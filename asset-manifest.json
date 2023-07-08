@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-display-of-products/static/css/main.3eb28cf4.css",
+    "main.js": "/ra-display-of-products/static/js/main.59368bca.js",
+    "index.html": "/ra-display-of-products/index.html",
+    "main.3eb28cf4.css.map": "/ra-display-of-products/static/css/main.3eb28cf4.css.map",
+    "main.59368bca.js.map": "/ra-display-of-products/static/js/main.59368bca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eb28cf4.css",
+    "static/js/main.59368bca.js"
+  ]
+}
